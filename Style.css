@@ -1,0 +1,63 @@
+body {
+background:gray
+
+}
+
+h1{
+color:red
+}
+
+p{
+font-size:20px
+}
+
+/*Sing up*/
+
+.main-div{
+background-image: url(https://k.top4top.io/p_2132dzkou0.jpg);
+background-size:cover;
+background_repeat:no-repeat;
+position: center;
+paddingn:100px 0;
+}
+
+.table{
+
+margin:0 auto;
+color:#fff;
+text-align: Centre;
+
+}
+.table tr td{
+padding:10px 0;
+font-size:18px;
+font-weight:400px;
+}
+
+.table tr td botton:hover{
+color:#000;
+}
+
+/*login part*/
+.main-div-in{
+background-image: url(https://b.top4top.io/p_2133x7ib70.jpg);
+background-size:cover;
+background_repeat:no-repeat;
+position: center;
+paddingn:300px 0;
+
+}
+/*Login & Sing up*/
+.reg{
+width:200px;
+floot:center;
+marging-top:20px;
+text-align:right;
+}
+
+.reg {
+color:#000;
+padding:20px;
+font-size:30px;
+text-align:right;
+}
